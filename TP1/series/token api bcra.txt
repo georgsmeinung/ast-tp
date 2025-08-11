@@ -1,0 +1,11 @@
+Su TOKEN de acceso para el API es:
+eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODExODc0NTYsInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJtYXJ0aW4uY2FuY2VsYXMxOTkyQGdtYWlsLmNvbSJ9.DmI8gZvYRb4crPncyG8BnCk5sTCuDzvbBUH9Cr67TENO5aW2PJsavxtKxzdZ09NbDEyofX5aldc5P6LTTFkr6g
+
+El Header que debe agregar a sus requests al API es:
+Authorization: BEARER eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODExODc0NTYsInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJtYXJ0aW4uY2FuY2VsYXMxOTkyQGdtYWlsLmNvbSJ9.DmI8gZvYRb4crPncyG8BnCk5sTCuDzvbBUH9Cr67TENO5aW2PJsavxtKxzdZ09NbDEyofX5aldc5P6LTTFkr6g
+
+El TOKEN es valido hasta:
+2026-06-11 11:17:36
+
+Por favor, si tiene alguna duda, consulte la documentación.
+https://estadisticasbcra.com/api/documentacion
